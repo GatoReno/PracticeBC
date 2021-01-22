@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYP+GRvZuJx3B29scU7UDvF37itptYjKeOKcv61ZyZUdyOoneHx6Dgvt0kRw7WA6e4wZ9lKDf4hLA3U7Pm38Gw==",
+  "success": true,
+  "projectFilePath": "/Users/ethoophanim/Projects/PracticeBC/PracticeBC/PracticeBC.csproj",
+  "expectedPackageFiles": [
+    "/Users/ethoophanim/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ethoophanim/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ethoophanim/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ethoophanim/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/ethoophanim/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
